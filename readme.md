@@ -31,3 +31,8 @@ Remove a specific image
 ### `docker image rm $(docker images -a -q)`
 
 Remove all images
+
+### `docker -it`
+
+-i keeps STDIN active to keep your process running
+-t we can type on terminal
