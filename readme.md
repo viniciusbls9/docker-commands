@@ -31,6 +31,10 @@ Builds image from Dockerfile.
 
 Remove a specific image
 
+### `docker rm [image name] -f`
+
+Force to remove a specific image
+
 
 ### `docker image rm $(docker images -a -q)`
 
