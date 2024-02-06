@@ -27,7 +27,7 @@ Lists docker images on the host machine.
 Builds image from Dockerfile.
 
 
-### `docker image rm [image name]`
+### `docker rm [image name]`
 
 Remove a specific image
 
