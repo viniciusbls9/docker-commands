@@ -1,6 +1,10 @@
 # Docker Commands
 
-Some of the most commonly used docker commands are 
+Some of the most commonly used docker commands are
+
+### `sudo service docker start`
+
+Start docker on WLS2
 
 ### `docker ps`
 
