@@ -46,7 +46,7 @@ Remove all images
 -t we can type on terminal
 
 
-## `docker build -t imageName .`
+### `docker build -t imageName .`
 
 Create a new image
 
