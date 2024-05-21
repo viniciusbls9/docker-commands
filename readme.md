@@ -44,3 +44,11 @@ Remove all images
 
 -i keeps STDIN active to keep your process running
 -t we can type on terminal
+
+
+## `docker build -t imageName .`
+
+Create a new image
+
+- `t` it's a tag name
+- `.` path exists dockerfile
